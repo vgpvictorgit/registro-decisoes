@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/registro-decisoes/static/css/main.e6c13ad2.css",
+    "main.js": "/registro-decisoes/static/js/main.49d95c3c.js",
+    "static/js/453.553c6822.chunk.js": "/registro-decisoes/static/js/453.553c6822.chunk.js",
+    "index.html": "/registro-decisoes/index.html",
+    "main.e6c13ad2.css.map": "/registro-decisoes/static/css/main.e6c13ad2.css.map",
+    "main.49d95c3c.js.map": "/registro-decisoes/static/js/main.49d95c3c.js.map",
+    "453.553c6822.chunk.js.map": "/registro-decisoes/static/js/453.553c6822.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.49d95c3c.js"
+  ]
+}
